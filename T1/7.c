@@ -1,4 +1,4 @@
-// YUDA PUNYA
+// YUDA PUNYA (compile pakai -lm)
 
 #include <stdio.h>
 #include <math.h>
